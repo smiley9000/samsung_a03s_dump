@@ -1,3 +1,0 @@
-on late-fs
-    mkdir /dev/socket/pacm 0770 system system
-	

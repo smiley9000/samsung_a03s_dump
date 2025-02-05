@@ -1,4 +1,0 @@
-# Samsung clipboard
-on post-fs-data
-    mkdir /data/semclipboard 0775 system system
-# Samsung clipboard

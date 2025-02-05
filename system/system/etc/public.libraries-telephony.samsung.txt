@@ -1,1 +1,0 @@
-libSecEmbms.telephony.samsung.so
